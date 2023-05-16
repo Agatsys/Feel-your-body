@@ -1,5 +1,5 @@
 import Head from 'next/head'
-//import HeaderBlock from '../components/header-block/header-block'
+// import HeaderBlock from '../components/header-block/header-block'
 import styles from '../styles/Home.module.scss'
 import header from '../components/header-block/header-block.module.scss'
 //import HeaderBlock from '../components/header-block'
